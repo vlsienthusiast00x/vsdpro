@@ -20,6 +20,6 @@ The VSDSquadronPRO board is tailored for students, developers, and enthusiasts l
 
 # Real purpose of this repository
 
-This repository is a documentation of the VSDSquadronPRO internship conducted by VLSI System Design for the students who have purschased this board. You can see tasks done by me in the "tasks" folder given by the VSD team.
+This repository is a documentation of the VSDSquadronPRO internship conducted by VLSI System Design for the students who have purschased this board. You can see tasks done by me in the "tasks" folder which were given by the VSD team.
 For more details please visit [here](https://www.vlsisystemdesign.com/vsdsquadronpro/)
 
