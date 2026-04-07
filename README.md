@@ -18,4 +18,8 @@ The VSDSquadronPRO board is tailored for students, developers, and enthusiasts l
 -----
 - **Designed for Low-Power Applications**- Multiple power domains and low-power standby modes ensure the board is ready for energy-efficient projects.
 
+# Real purpose of this repository
+
+This repository is a documentation of the VSDSquadronPRO internship conducted by Vlsi System Design.
+For more details please visit (here)[https://www.vlsisystemdesign.com/vsdsquadronpro/]
 
