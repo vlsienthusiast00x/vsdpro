@@ -1,6 +1,9 @@
 # VSDSquadronPRO
 The VSDSquadronPRO board is tailored for students, developers, and enthusiasts looking to explore AI, ML, IoT, and edge computing. Powered by SiFive FE310-G002 RISC-V SoC. This development board offers a comprehensive platform for tackling complex embedded systems challenges with ease.
 
+<img width="890" height="553" alt="image" src="https://github.com/user-attachments/assets/75a758d7-1940-4ebc-98ea-4ec06224d3ca" />
+
+
 - **Tailored for IoT and Edge Computing**- Designed with students in mind, the FE310-G002 SoC offers the perfect environment to explore connected devices and real-time data processing.
 -----
 - **High-Performance SiFive E3 Core**- Featuring a 32-bit RV32IMAC core, this board provides a real-world learning experience with a focus on computational efficiency.
