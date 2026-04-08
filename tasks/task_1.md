@@ -1,31 +1,36 @@
-# Task 1 – Hardware Setup & Validation
-## Day 1
-We start our internship by installing the required software and tools for the VSDSquadronPRO board.
+# Task 1
 
-## Software installation
-1. Install Zadig fron [here](https://zadig.akeo.ie/)
-2. After installing Zadig, follow the below steps
-<img width="812" height="622" alt="image" src="https://github.com/user-attachments/assets/47c750f4-f71b-40e0-975d-4918815e5b26" />
+## Overview
+This document outlines the objectives, requirements, and steps to complete Task 1.
 
-3. Download Freedom studio throught [this](https://vsd-labs.sgp1.cdn.digitaloceanspaces.com/vsd-labs/VSDSquadronPRO.tar.gz) link and then extract the file downloaded.
-4. After extraction, click the extracted folder and find 'FreedomStudio-3-1-1' inside it and click it. then click 'Run Anyway' and launch the studio.
-<img width="1116" height="671" alt="image" src="https://github.com/user-attachments/assets/eb4b8237-7343-4f92-898a-5ee978053f9f" />
+## Objectives
+- Clearly define the goals to be achieved.
+- Ensure that all participants understand their roles.
+  
+## Requirements
+1. **Prerequisites:**
+   - Complete the registration process.
+   - Familiarity with project management tools.
 
-## Example software project
-1. Create a Validation project.
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/bf916718-a4ef-420d-b149-1e2e27f2d06f" />
-2. Change the target and click on finish
-<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/0bf03ee8-9b96-49bf-ae90-54219bd628f4" />
-3. Then connect the VSDSquadronPRO board and click on OpenOCD and then click on debug
-<img width="1415" height="680" alt="image" src="https://github.com/user-attachments/assets/994688e4-8fc8-4d3a-bcbb-6505971ce545" />
+2. **Resources needed:**   
+   - Access to project repository.
+   - Necessary templates and documentation.
 
-**Final output**:-
-After clicking on the debug button, click on the Run button and observe the terminal and the LED on the board, if your output is similar to the below images, you have successfully installed the FreedonStudio correctly.
+## Steps to Complete Task
+1. **Review Objectives:** 
+   - Go through the objectives listed above.
 
-<img width="767" height="687" alt="image" src="https://github.com/user-attachments/assets/82fa26cb-2c67-4c6a-8ac9-9ac243ea02f1" />
+2. **Gather Required Information:** 
+   - Verify that all prerequisites are fulfilled.
 
+3. **Execute the Task:** 
+   - Follow the guidelines outlined in the relevant documents.
 
+4. **Submit for Review:** 
+   - Prepare the final output and submit it according to the prescribed process.
 
+5. **Feedback Loop:** 
+   - Gather feedback and iterate as required.
 
-
-
+## Conclusion
+This guideline aims to facilitate a clear understanding of Task 1, ensuring a systematic approach to achieve the set objectives.
