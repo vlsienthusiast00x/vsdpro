@@ -1,4 +1,31 @@
-# Hardware Setup & Validation
+# Task-1 Hardware Setup & Validation
+
+## SiFive FE310-G002 Processor Summary
+
+The **SiFive FE310-G002** is a RISC-V–based microcontroller designed for IoT and embedded applications.  
+---
+
+## Core Components
+- **CPU Core**: 32‑bit RV32IMAC RISC‑V core (E31 Core Complex)
+- **Instruction Cache**: 16 KB L1
+- **Data Memory**: 16 KB SRAM scratchpad
+- **Boot ROM**: Built-in for startup routines
+
+---
+
+## Peripherals
+- **Communication Interfaces**: UART, SPI/QSPI, I²C, GPIO
+- **Timers & Control**: PWM, general-purpose timers
+- **Debug Support**: RISC‑V Debug Spec 0.13 compliant, JTAG/OpenOCD compatible
+
+---
+
+## Clock & Power
+- On-chip oscillators and PLLs for flexible clock generation
+- Multiple power modes for energy efficiency
+
+---
+
 
 ## Software Installation
 
