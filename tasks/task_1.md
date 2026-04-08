@@ -1,4 +1,4 @@
-
+# Task 1 – Hardware Setup & Validation section
 ## Software installation
 1. Install Zadig fron [here](https://zadig.akeo.ie/)
 2. After installing Zadig, follow the below steps
